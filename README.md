@@ -15,7 +15,16 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ambmt&show_icons=true&theme=synthwave">
   </a>
   <br>
-  <a href="https://github.com/Auxilor">
+  <a href="https://github.com/ambmt">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambmt&layout=compact&theme=synthwave">
+  </a>
+</h2>
+<h2 align="center">
+  <a href="https://github.com/advancius">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=advancius&show_icons=true&theme=tokyonight">
+  </a>
+  <br>
+  <a href="https://github.com/advancius">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advancius&layout=compact&theme=tokyonight">
   </a>
 </h2>
