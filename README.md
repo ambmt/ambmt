@@ -16,7 +16,7 @@
   </a>
   <br>
   <a href="https://github.com/ambmt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambmt&layout=compact&theme=synthwave">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambmt&layout=compact&theme=tokyonight&include_all_commits">
   </a>
 <h1 align="center">Hi 👋, I'm ambmt</h1>
 <h3 align="center">A developer from England</h3>
