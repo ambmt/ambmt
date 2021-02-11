@@ -12,7 +12,7 @@
 
 <h2 align="center">
   <a href="https://github.com/ambmt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ambmt&show_icons=true&theme=synthwave&count_private=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ambmt&show_icons=true&theme=synthwave&count_private=true&hide=contribs,prs,issues,stars">
   </a>
   <br>
   <a href="https://github.com/ambmt">
