@@ -12,11 +12,11 @@
 
 <h2 align="center">
   <a href="https://github.com/ambmt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ambmt&show_icons=true&theme=synthwave">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ambmt&show_icons=true&theme=synthwave&count_private=true">
   </a>
   <br>
   <a href="https://github.com/ambmt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambmt&layout=compact&theme=tokyonight&include_all_commits">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambmt&layout=compact&theme=tokyonight">
   </a>
 <h1 align="center">Hi 👋, I'm ambmt</h1>
 <h3 align="center">A developer from England</h3>
