@@ -1,7 +1,7 @@
 <h3 align="center">
-  <img src="https://img.shields.io/github/followers/ambmt?label=Followers&style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/followers/ambmt?label=Followers&style=for-the-badge&color=purple">
   <a href="https://discord.gg/puJSmw72FY" alt="Discord">
-      <img src="https://img.shields.io/discord/452518336627081236?label=discord&style=for-the-badge&color=blue"/>
+      <img src="https://img.shields.io/discord/452518336627081236?label=discord&style=for-the-badge&color=purple"/>
   </a>
   <a href="https://ambmt.xyz" alt="Website">
       <img src="https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=purple&up_message=Online&url=https%3A%2F%2Fambmt.xyz"/>
