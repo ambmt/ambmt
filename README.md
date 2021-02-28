@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on **OverrideMc**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C**
 
 - 🤝 I’m looking for help with **FrontEnd Devs**
 
