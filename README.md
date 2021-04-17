@@ -25,9 +25,9 @@
 
 <p align="left"> <a href="https://github.com/ambmt"><img src="https://github-profile-trophy.vercel.app/?username=ambmt&theme=retrowave" alt="ambmt" /></a> </p>
 
-- 🔭 I’m currently working on **OverrideMc**
+- 🔭 I’m currently working on **BWP Client**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Rust**
 
 - 🤝 I’m looking for help with **FrontEnd Devs**
 
