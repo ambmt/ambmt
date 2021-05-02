@@ -1,6 +1,6 @@
 <h3 align="center">
   <img src="https://img.shields.io/github/followers/ambmt?label=Followers&style=for-the-badge&color=purple">
-  <a href="https://t.co/skWj3N9iI7?amp=1" alt="Discord">
+  <a href="https://discord.gg/qJaq4yxB" alt="Discord">
       <img src="https://img.shields.io/discord/831599616004587591?color=purple&label=discord&logo=discord&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://ambmt.xyz" alt="Website">
